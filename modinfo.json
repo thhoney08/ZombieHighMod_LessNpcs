@@ -1,0 +1,13 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "Zhigh_Mod_less_Npc",
+    "name": "<color_light_green>Zombie Highschool Mod, less NPCs</color>",
+    "authors": [ "Another Marius" ],
+    "maintainers": [ "thhoney" ],
+    "description": "Add a weird school with less NPCs and zeds, for mobile devices.",
+    "category": "content",
+    "dependencies": [ "bn", "Zhigh_Mod" ],
+    "conflicts": [ "no_olg_guns", "no_medieval_items" ]
+  }
+]
