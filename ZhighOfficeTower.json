@@ -150,10 +150,6 @@
         { "class": "RangedDude", "x": [ 8, 16 ], "y": [ 8, 16 ] },
         { "class": "MeleeDude", "x": [ 8, 16 ], "y": [ 8, 16 ] },
         { "class": "MeleeDude", "x": [ 8, 16 ], "y": [ 8, 16 ] },
-        { "class": "RangedDude", "x": [ 8, 16 ], "y": [ 29, 42 ] },
-        { "class": "RangedDude", "x": [ 8, 16 ], "y": [ 29, 42 ] },
-        { "class": "MeleeDude", "x": [ 8, 16 ], "y": [ 29, 42 ] },
-        { "class": "RangedDude", "x": [ 29, 42 ], "y": [ 29, 42 ] },
         { "class": "RangedDude", "x": [ 29, 42 ], "y": [ 29, 42 ] },
         { "class": "MeleeDude", "x": [ 29, 42 ], "y": [ 29, 42 ] },
         { "class": "MeleeDude", "x": [ 29, 42 ], "y": [ 29, 42 ] }
@@ -221,13 +217,6 @@
       "place_npcs": [
         { "class": "RangedDude", "x": [ 8, 16 ], "y": [ 8, 16 ] },
         { "class": "RangedDude", "x": [ 8, 16 ], "y": [ 8, 16 ] },
-        { "class": "RangedDude", "x": [ 29, 42 ], "y": [ 8, 16 ] },
-        { "class": "RangedDude", "x": [ 29, 42 ], "y": [ 8, 16 ] },
-        { "class": "MeleeDude", "x": [ 29, 42 ], "y": [ 8, 16 ] },
-        { "class": "MeleeDude", "x": [ 29, 42 ], "y": [ 8, 16 ] },
-        { "class": "MeleeDude", "x": [ 29, 42 ], "y": [ 29, 42 ] },
-        { "class": "RangedDude", "x": [ 29, 42 ], "y": [ 29, 42 ] },
-        { "class": "MeleeDude", "x": [ 29, 42 ], "y": [ 29, 42 ] },
         { "class": "RangedDude", "x": [ 29, 42 ], "y": [ 29, 42 ] },
         { "class": "MeleeDude", "x": [ 29, 42 ], "y": [ 29, 42 ] },
         { "class": "MeleeDude", "x": [ 29, 42 ], "y": [ 29, 42 ] }
@@ -513,11 +502,6 @@
       "place_npcs": [
         { "class": "MeleeDude", "x": [ 8, 16 ], "y": [ 8, 16 ] },
         { "class": "RangedDude", "x": [ 8, 16 ], "y": [ 8, 16 ] },
-        { "class": "RangedDude", "x": [ 29, 42 ], "y": [ 8, 16 ] },
-        { "class": "MeleeDude", "x": [ 29, 42 ], "y": [ 8, 16 ] },
-        { "class": "MeleeDude", "x": [ 29, 42 ], "y": [ 8, 16 ] },
-        { "class": "MeleeDude", "x": [ 29, 42 ], "y": [ 8, 16 ] },
-        { "class": "RangedDude", "x": [ 29, 42 ], "y": [ 29, 42 ] },
         { "class": "RangedDude", "x": [ 29, 42 ], "y": [ 29, 42 ] },
         { "class": "MeleeDude", "x": [ 29, 42 ], "y": [ 29, 42 ] },
         { "class": "MeleeDude", "x": [ 29, 42 ], "y": [ 29, 42 ] },
@@ -613,12 +597,7 @@
       "place_npcs": [
         { "class": "RangedDude", "x": [ 8, 16 ], "y": [ 8, 16 ] },
         { "class": "RangedDude", "x": [ 29, 42 ], "y": [ 8, 16 ] },
-        { "class": "RangedDude", "x": [ 29, 42 ], "y": [ 8, 16 ] },
         { "class": "MeleeDude", "x": [ 29, 42 ], "y": [ 8, 16 ] },
-        { "class": "MeleeDude", "x": [ 29, 42 ], "y": [ 8, 16 ] },
-        { "class": "MeleeDude", "x": [ 29, 42 ], "y": [ 29, 42 ] },
-        { "class": "MeleeDude", "x": [ 29, 42 ], "y": [ 29, 42 ] },
-        { "class": "RangedDude", "x": [ 29, 42 ], "y": [ 29, 42 ] },
         { "class": "RangedDude", "x": [ 29, 42 ], "y": [ 29, 42 ] },
         { "class": "MeleeDude", "x": [ 29, 42 ], "y": [ 29, 42 ] },
         { "class": "MeleeDude", "x": [ 29, 42 ], "y": [ 29, 42 ] }
@@ -726,11 +705,6 @@
       "place_npcs": [
         { "class": "RangedDude", "x": [ 8, 16 ], "y": [ 8, 16 ] },
         { "class": "MeleeDude", "x": [ 29, 42 ], "y": [ 8, 16 ] },
-        { "class": "RangedDude", "x": [ 29, 42 ], "y": [ 8, 16 ] },
-        { "class": "MeleeDude", "x": [ 29, 42 ], "y": [ 8, 16 ] },
-        { "class": "MeleeDude", "x": [ 29, 42 ], "y": [ 8, 16 ] },
-        { "class": "RangedDude", "x": [ 29, 42 ], "y": [ 29, 42 ] },
-        { "class": "MeleeDude", "x": [ 29, 42 ], "y": [ 29, 42 ] },
         { "class": "MeleeDude", "x": [ 29, 42 ], "y": [ 29, 42 ] },
         { "class": "RangedDude", "x": [ 29, 42 ], "y": [ 29, 42 ] },
         { "class": "MeleeDude", "x": [ 29, 42 ], "y": [ 29, 42 ] },
@@ -798,11 +772,6 @@
       "place_npcs": [
         { "class": "RangedDude", "x": [ 8, 16 ], "y": [ 8, 16 ] },
         { "class": "MeleeDude", "x": [ 29, 42 ], "y": [ 8, 16 ] },
-        { "class": "RangedDude", "x": [ 29, 42 ], "y": [ 8, 16 ] },
-        { "class": "MeleeDude", "x": [ 29, 42 ], "y": [ 8, 16 ] },
-        { "class": "MeleeDude", "x": [ 29, 42 ], "y": [ 8, 16 ] },
-        { "class": "RangedDude", "x": [ 29, 42 ], "y": [ 29, 42 ] },
-        { "class": "MeleeDude", "x": [ 29, 42 ], "y": [ 29, 42 ] },
         { "class": "RangedDude", "x": [ 29, 42 ], "y": [ 29, 42 ] },
         { "class": "RangedDude", "x": [ 29, 42 ], "y": [ 29, 42 ] },
         { "class": "MeleeDude", "x": [ 29, 42 ], "y": [ 29, 42 ] },
